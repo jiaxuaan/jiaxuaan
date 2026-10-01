@@ -1,5 +1,5 @@
 # Hi! I'm Jia Xuan 👋
-Problems first, code second. I'm an aspiring software developer who starts by asking what's actually broken for the people involved, then builds the simplest reliable thing that fixes it. Still learning, always building.
+An aspiring software developer who starts by asking what's actually broken for the people involved, then builds the simplest reliable thing that fixes it. Still learning, always building.
 
 
 # 💻 Tech Stack:
